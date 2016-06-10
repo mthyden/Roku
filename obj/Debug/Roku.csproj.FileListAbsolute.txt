@@ -1,0 +1,7 @@
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\bin\Roku.dll
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\bin\Roku.pdb
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\bin\SimplSharpCustomAttributesInterface.dll
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\bin\SimplSharpHelperInterface.dll
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\obj\Debug\Roku.dll
+C:\Dropbox\Projects\SIMPL#\Roku\Roku\obj\Debug\Roku.pdb
