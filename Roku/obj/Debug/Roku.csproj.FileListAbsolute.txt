@@ -16,3 +16,9 @@ C:\Dropbox\Projects\SIMPLSharp\Roku\Roku\obj\Debug\Roku.pdb
 C:\Dropbox\Projects\SIMPLSharp\Roku\Roku\bin\SimplSharpNewtonsoft.dll
 C:\Dropbox\Projects\SIMPLSharp\Roku\Roku\bin\SimplSharpReflectionInterface.dll
 C:\Dropbox\Projects\SIMPLSharp\Roku\Roku\bin\SimplSharpSQLHelperInterface.dll
+C:\Users\mthyden\Documents\GitHub\Roku\Roku\bin\Roku.dll
+C:\Users\mthyden\Documents\GitHub\Roku\Roku\bin\Roku.pdb
+C:\Users\mthyden\Documents\GitHub\Roku\Roku\bin\SimplSharpSQLHelperInterface.dll
+C:\Users\mthyden\Documents\GitHub\Roku\Roku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mthyden\Documents\GitHub\Roku\Roku\obj\Debug\Roku.dll
+C:\Users\mthyden\Documents\GitHub\Roku\Roku\obj\Debug\Roku.pdb
