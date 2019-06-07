@@ -1,0 +1,5 @@
+<Device Model="DIN-AP3MEX">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02"/>
+   <Network Type="RF" Id="03"/>
+</Device>
